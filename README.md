@@ -1,4 +1,4 @@
-# Guardians of The Exolplanets - AI Model and Web Server
+# Guardians of The Exoplanets - AI Model - Single Prediction, Batch Prediction, Automated Retrain and Cloud Web Server
 
 [Our Team](https://www.spaceappschallenge.org/2025/find-a-team/guardians-of-the-exoplanets/?tab=project)
 
