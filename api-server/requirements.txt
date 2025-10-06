@@ -1,0 +1,6 @@
+pandas
+xgboost
+google-cloud-storage
+scikit-learn
+temp
+numpy
