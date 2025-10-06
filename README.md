@@ -15,7 +15,7 @@
 │   │       ├── y_test.csv – Labels for the test set
 │   │       └── y_train_full.csv – Labels for the full training set
 │   ├── functions.py – Utility functions for data processing or model operations
-│   ├── main.py – API server entry point (likely Flask/FastAPI)
+│   ├── main.py – API server entry point
 │   └── requirements.txt – Python dependencies for the API server
 ├── models – Pretrained models for each mission/
 │   ├── *_complete.model – Full-featured model
